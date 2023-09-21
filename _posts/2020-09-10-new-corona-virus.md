@@ -7,7 +7,7 @@ author:     Henri Jambo
 header-img: img/post-bg-coronavirus.jpg
 catalog:    false
 tags:
-    - Language Tips
+    - 
 ---
 
 What is the expression for "novel coronavirus" in Globien? 
