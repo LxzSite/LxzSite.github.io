@@ -7,7 +7,7 @@ author:     Xiaozhao Lu
 header-img: img/post-bg-balloons.jpg
 catalog:    false
 tags:
-    - News
+    - Scientific research
 
 ---
 
